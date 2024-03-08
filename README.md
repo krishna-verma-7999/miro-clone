@@ -17,3 +17,9 @@
 - create middleware file following clerk documentation
 - create jwt template from clerk following convex docs
 - copy issue link from clerk generative template and create auth.config.js file inside convex folder
+
+# Sidebar
+
+- go to the clerk website and go to jwt template and create two new keys first is organization_id and organization_role
+- for dialog component we are going to install new component that is dialog and also install tooltip component.
+- go to clerk and dashboard and then customize avatar logo.
